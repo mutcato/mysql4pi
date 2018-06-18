@@ -27,7 +27,7 @@ __3.__ Install php
         
  __7.__ Install phpmyadmin
  
-        sudo apt-get phpmyadmin
+        sudo apt-get install phpmyadmin
         
  When it ask you to select a server Select `apache2`. When it ask you to use dbconfig-common settings, say `Yes`
  Whet it ask you, select `your root pasword`
